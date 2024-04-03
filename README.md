@@ -1,5 +1,5 @@
 # tallerDeGit
 
-Taller de git de la materia "Introduccion a la Programacion" de la FCEyN - UBA.
+NO me gusto esta linea
 
 Se le agrego temas
